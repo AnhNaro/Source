@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Attack2
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 469b53de23f4f9f4792271b6aceb7d2a, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: c42351b70343a054a87bf9c2f826125e, type: 3}
+    - time: 0.28333333
+      value: {fileID: 21300000, guid: 63a085adcb9f67546ab33a4e62d113ce, type: 3}
+    - time: 0.45
+      value: {fileID: 21300000, guid: 2a1769763edbf0a4fb7298fbd0bd0ba4, type: 3}
+    - time: 0.6
+      value: {fileID: 21300000, guid: c4ca705e5e848614db13daec4f43edb5, type: 3}
+    - time: 0.73333335
+      value: {fileID: 21300000, guid: ef551ab88a797094c989d6c5b57f60b3, type: 3}
+    - time: 0.8833333
+      value: {fileID: 21300000, guid: 416211a9ed1823c48bd2f49cfe64d5e7, type: 3}
+    - time: 1.05
+      value: {fileID: 21300000, guid: 766f67e5f2633e84b930ec76b0220e26, type: 3}
+    - time: 1.1666666
+      value: {fileID: 21300000, guid: 4af0bb364b057f14eb6832fe6d7dbfae, type: 3}
+    - time: 1.3333334
+      value: {fileID: 21300000, guid: 7b139c1f13f94404588c92ad07d941c1, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 469b53de23f4f9f4792271b6aceb7d2a, type: 3}
+    - {fileID: 21300000, guid: c42351b70343a054a87bf9c2f826125e, type: 3}
+    - {fileID: 21300000, guid: 63a085adcb9f67546ab33a4e62d113ce, type: 3}
+    - {fileID: 21300000, guid: 2a1769763edbf0a4fb7298fbd0bd0ba4, type: 3}
+    - {fileID: 21300000, guid: c4ca705e5e848614db13daec4f43edb5, type: 3}
+    - {fileID: 21300000, guid: ef551ab88a797094c989d6c5b57f60b3, type: 3}
+    - {fileID: 21300000, guid: 416211a9ed1823c48bd2f49cfe64d5e7, type: 3}
+    - {fileID: 21300000, guid: 766f67e5f2633e84b930ec76b0220e26, type: 3}
+    - {fileID: 21300000, guid: 4af0bb364b057f14eb6832fe6d7dbfae, type: 3}
+    - {fileID: 21300000, guid: 7b139c1f13f94404588c92ad07d941c1, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.35
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.16666667
+    functionName: AuSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.28333333
+    functionName: Adda3
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.5
+    functionName: Removea3
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.6666667
+    functionName: AuSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.73333335
+    functionName: AddCollisionAtack2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8833333
+    functionName: RemoveCollisionAtack2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1
+    functionName: AuSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.05
+    functionName: Add2CollisionAtack2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1
+    functionName: Remove2CollisionAtack2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1666666
+    functionName: Add3CollisionAtack2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3333334
+    functionName: Remove3CollisionAtack2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

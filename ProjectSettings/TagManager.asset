@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Khien
+  - Kiem
+  - Enemy
+  - Ground
+  - KyNang
+  - Locauvong
+  - KiemD
+  - KhienD
+  - Trap
+  - Box
+  - Tao
+  - Nho
+  - Chuoi
+  - Le
+  - Bo
+  - Dau
+  - Cam
+  - Coint
+  - DuiGa
+  - CuCai
+  - BapCai
+  - CaChua
+  - CaRot
+  - ThuatThuc
+  - BangPha
+  - CauBang
+  - Lua
+  - BomQua
+  - BongBong
+  - Boss
+  - KiemThan
+  - Soundlenh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Khien
+  - Water
+  - UI
+  - Player
+  - Kiem
+  - Ground
+  - Enemy
+  - CauBang
+  - BangPha
+  - ThuatThuc
+  - Lua
+  - Qua
+  - BongBom
+  - Trap
+  - CuaPhat
+  - KiemThan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fg
+    uniqueID: 2608565017
+    locked: 0
